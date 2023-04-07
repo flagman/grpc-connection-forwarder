@@ -1,7 +1,7 @@
 import socket
 import threading
-from connection_counter import ConnectionCounter
-from lock_with_value import LockWithValue
+from .connection_counter import ConnectionCounter
+from .lock_with_value import LockWithValue
 import logging
 
 
