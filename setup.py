@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="grpc_connection_forwarder",
-    version="0.1.3",
+    version="0.1.4",
     author="Pavel Malay",
     author_email="flagmansupport@gmail.com",
     description="A small package for counting gRPC connections",
