@@ -1,6 +1,6 @@
 # gRPC Connection Forwarder
 
-`grpc_connection_forwarder` is a Python package that helps you forward incoming TCP connections to a gRPC server. It is particularly useful when you want to expose your gRPC services to non-gRPC clients or when you need to track the number of active connections.
+`grpc_connection_forwarder` is a Python package that helps you forward incoming TCP connections to a gRPC server. It is particularly useful when you need to track the number of active connections.
 
 ## Features
 
